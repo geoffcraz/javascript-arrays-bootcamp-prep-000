@@ -62,5 +62,3 @@ removeElementFromEndOfArray([1,2,3])
   var array = []
   var remove = array.shift()
   return remove
-
-
